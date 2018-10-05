@@ -1,0 +1,355 @@
+Row 1: s d f g 
+Row 2: k d s w 
+Row 3: o e t q 
+Row 4: l d d u 
+
+Word: koel
+Number of Words: 1
+s	d	f	g		 	0	0	0	0
+'k'	d	s	w		 	1	0	0	0
+'o'	'e'	t	q		 	2	3	0	0
+'l'	d	d	u		 	4	0	0	0
+
+Word: de
+Number of Words: 2
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	1	0	0
+o	'e'	t	q		 	0	2	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: des
+Number of Words: 3
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	1	3	0
+o	'e'	t	q		 	0	2	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: del
+Number of Words: 4
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	1	0	0
+o	'e'	t	q		 	0	2	0	0
+'l'	d	d	u		 	3	0	0	0
+
+Word: do
+Number of Words: 5
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	1	0	0
+'o'	e	t	q		 	2	0	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: doe
+Number of Words: 6
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	1	0	0
+'o'	'e'	t	q		 	2	3	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: does
+Number of Words: 7
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	1	4	0
+'o'	'e'	t	q		 	2	3	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: doest
+Number of Words: 8
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	1	4	0
+'o'	'e'	't'	q		 	2	3	5	0
+l	d	d	u		 	0	0	0	0
+
+Word: dol
+Number of Words: 9
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	1	0	0
+'o'	e	t	q		 	2	0	0	0
+'l'	d	d	u		 	3	0	0	0
+
+Word: dole
+Number of Words: 10
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	1	0	0
+'o'	'e'	t	q		 	2	4	0	0
+'l'	d	d	u		 	3	0	0	0
+
+Word: doled
+Number of Words: 11
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	1	0	0
+'o'	'e'	t	q		 	2	4	0	0
+'l'	'd'	d	u		 	3	5	0	0
+
+Word: doles
+Number of Words: 12
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	1	5	0
+'o'	'e'	t	q		 	2	4	0	0
+'l'	d	d	u		 	3	0	0	0
+
+Word: stud
+Number of Words: 13
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	1	0
+o	e	't'	q		 	0	0	2	0
+l	d	'd'	'u'		 	0	0	4	3
+
+Word: studded
+Number of Words: 14
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	7	1	0
+o	'e'	't'	q		 	0	6	2	0
+l	'd'	'd'	'u'		 	0	5	4	3
+
+Word: set
+Number of Words: 15
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	1	0
+o	'e'	't'	q		 	0	2	3	0
+l	d	d	u		 	0	0	0	0
+
+Word: sel
+Number of Words: 16
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	1	0
+o	'e'	t	q		 	0	2	0	0
+'l'	d	d	u		 	3	0	0	0
+
+Word: oe
+Number of Words: 17
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+'o'	'e'	t	q		 	1	2	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: oes
+Number of Words: 18
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	3	0
+'o'	'e'	t	q		 	1	2	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: old
+Number of Words: 19
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+'o'	e	t	q		 	1	0	0	0
+'l'	'd'	d	u		 	2	3	0	0
+
+Word: oldest
+Number of Words: 20
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	5	0
+'o'	'e'	't'	q		 	1	4	6	0
+'l'	'd'	d	u		 	2	3	0	0
+
+Word: ole
+Number of Words: 21
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+'o'	'e'	t	q		 	1	3	0	0
+'l'	d	d	u		 	2	0	0	0
+
+Word: oles
+Number of Words: 22
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	4	0
+'o'	'e'	t	q		 	1	3	0	0
+'l'	d	d	u		 	2	0	0	0
+
+Word: oke
+Number of Words: 23
+s	d	f	g		 	0	0	0	0
+'k'	d	s	w		 	2	0	0	0
+'o'	'e'	t	q		 	1	3	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: okes
+Number of Words: 24
+s	d	f	g		 	0	0	0	0
+'k'	d	's'	w		 	2	0	4	0
+'o'	'e'	t	q		 	1	3	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: od
+Number of Words: 25
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	2	0	0
+'o'	e	t	q		 	1	0	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: ods
+Number of Words: 26
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	2	3	0
+'o'	e	t	q		 	1	0	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: ode
+Number of Words: 27
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	2	0	0
+'o'	'e'	t	q		 	1	3	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: odes
+Number of Words: 28
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	2	4	0
+'o'	'e'	t	q		 	1	3	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: odd
+Number of Words: 29
+s	'd'	f	g		 	0	3	0	0
+k	'd'	s	w		 	0	2	0	0
+'o'	e	t	q		 	1	0	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: odds
+Number of Words: 30
+'s'	'd'	f	g		 	4	3	0	0
+k	'd'	s	w		 	0	2	0	0
+'o'	e	t	q		 	1	0	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: oddest
+Number of Words: 31
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	5	0
+'o'	'e'	't'	q		 	1	4	6	0
+l	'd'	'd'	u		 	0	2	3	0
+
+Word: et
+Number of Words: 32
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+o	'e'	't'	q		 	0	1	2	0
+l	d	d	u		 	0	0	0	0
+
+Word: es
+Number of Words: 33
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	2	0
+o	'e'	t	q		 	0	1	0	0
+l	d	d	u		 	0	0	0	0
+
+Word: el
+Number of Words: 34
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+o	'e'	t	q		 	0	1	0	0
+'l'	d	d	u		 	2	0	0	0
+
+Word: eld
+Number of Words: 35
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+o	'e'	t	q		 	0	1	0	0
+'l'	'd'	d	u		 	2	3	0	0
+
+Word: eddo
+Number of Words: 36
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+'o'	'e'	t	q		 	4	1	0	0
+l	'd'	'd'	u		 	0	3	2	0
+
+Word: ted
+Number of Words: 37
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+o	'e'	't'	q		 	0	2	1	0
+l	'd'	d	u		 	0	3	0	0
+
+Word: teds
+Number of Words: 38
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	3	4	0
+o	'e'	't'	q		 	0	2	1	0
+l	d	d	u		 	0	0	0	0
+
+Word: tel
+Number of Words: 39
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+o	'e'	't'	q		 	0	2	1	0
+'l'	d	d	u		 	3	0	0	0
+
+Word: lo
+Number of Words: 40
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+'o'	e	t	q		 	2	0	0	0
+'l'	d	d	u		 	1	0	0	0
+
+Word: lode
+Number of Words: 41
+s	d	f	g		 	0	0	0	0
+k	'd'	s	w		 	0	3	0	0
+'o'	'e'	t	q		 	2	4	0	0
+'l'	d	d	u		 	1	0	0	0
+
+Word: lodes
+Number of Words: 42
+s	d	f	g		 	0	0	0	0
+k	'd'	's'	w		 	0	3	5	0
+'o'	'e'	t	q		 	2	4	0	0
+'l'	d	d	u		 	1	0	0	0
+
+Word: let
+Number of Words: 43
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+o	'e'	't'	q		 	0	2	3	0
+'l'	d	d	u		 	1	0	0	0
+
+Word: lets
+Number of Words: 44
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	4	0
+o	'e'	't'	q		 	0	2	3	0
+'l'	d	d	u		 	1	0	0	0
+
+Word: led
+Number of Words: 45
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+o	'e'	t	q		 	0	2	0	0
+'l'	'd'	d	u		 	1	3	0	0
+
+Word: lek
+Number of Words: 46
+s	d	f	g		 	0	0	0	0
+'k'	d	s	w		 	3	0	0	0
+o	'e'	t	q		 	0	2	0	0
+'l'	d	d	u		 	1	0	0	0
+
+Word: leks
+Number of Words: 47
+'s'	d	f	g		 	4	0	0	0
+'k'	d	s	w		 	3	0	0	0
+o	'e'	t	q		 	0	2	0	0
+'l'	d	d	u		 	1	0	0	0
+
+Word: lest
+Number of Words: 48
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	3	0
+o	'e'	't'	q		 	0	2	4	0
+'l'	d	d	u		 	1	0	0	0
+
+Word: ut
+Number of Words: 49
+s	d	f	g		 	0	0	0	0
+k	d	s	w		 	0	0	0	0
+o	e	't'	q		 	0	0	2	0
+l	d	d	'u'		 	0	0	0	1
+
+Word: uts
+Number of Words: 50
+s	d	f	g		 	0	0	0	0
+k	d	's'	w		 	0	0	3	0
+o	e	't'	q		 	0	0	2	0
+l	d	d	'u'		 	0	0	0	1
+

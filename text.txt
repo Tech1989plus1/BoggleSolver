@@ -1,0 +1,44 @@
+Row 1: a b f s 
+Row 2: f s w f 
+Row 3: f g e t 
+Row 4: f v g t 
+
+1	aff
+2	as
+3	ba
+4	baff
+5	baffs
+6	bas
+7	base
+8	fa
+9	fas
+10	sab
+11	set
+12	sett
+13	seg
+14	sew
+15	sews
+16	we
+17	wet
+18	weft
+19	fet
+20	few
+21	get
+22	et
+23	egg
+24	eggs
+25	es
+26	ef
+27	eft
+28	efs
+29	eff
+30	effs
+31	teg
+32	tegs
+33	tew
+34	tews
+35	teff
+36	teffs
+37	tet
+38	vet
+39	veg
